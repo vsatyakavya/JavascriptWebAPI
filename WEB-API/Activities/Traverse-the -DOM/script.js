@@ -13,5 +13,4 @@ articlesVar.previousElementSibling.style.background="black";
 mainDiv.childNodes[1].style.textDecoration = "underline";
 mainDiv.lastElementChild.style.fontSize="25px";
 mainDiv.firstElementChild.style.color="orange";
-
- mainDiv.lastElementChild.parentElement.style.fontSize="50px";
+mainDiv.lastElementChild.parentElement.style.fontSize="50px";
